@@ -1,5 +1,4 @@
-## This file contains libraries and code written  by Google (c) 2019 and distributed under the Apache 2.0 license  
-import argparse
+
 import gstreamer
 import os
 import time
@@ -89,3 +88,4 @@ def main():
 if __name__ == '__main__':
     main()
 
+## This file contains libraries (c) 2019 Google under the Apache licence distributed with the Google Coral Dev board. 
