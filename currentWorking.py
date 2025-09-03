@@ -1,4 +1,4 @@
-
+## This file contains libraries and code written  by Google (c) 2019 and distributed under the Apache 2.0 license  
 import argparse
 import gstreamer
 import os
